@@ -9,4 +9,4 @@
 - Python
 
 ## Tools
-- I'm comfortable with most JS frameworks including Angular, ReactJS, Vue, but my preferred frameworks are Remix and Svelte
+- I'm comfortable with most JS frameworks including Angular, ReactJS, Vue, but my preferred frameworks are Next.js and Svelte
